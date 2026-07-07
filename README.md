@@ -15,6 +15,8 @@ A Bank Management System developed using Python, MySQL, and Pandas.
 - Python
 - MySQL
 - Pandas
+- NumPy
+- Matplotlib
 
 ## ▶️ How to Run
 1. Install Python
